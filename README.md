@@ -8,7 +8,7 @@ Este aplicativo é resultado de uma atividade prática da disciplina de **Progra
 
 Foi desenvolvido utilizando o **Expo**, uma ferramenta moderna que facilita o desenvolvimento com **React Native**.
 
-> 👨‍💻 **Projeto desenvolvido por Kalebe Mehret Santana**  
+> **Projeto desenvolvido por Kalebe Mehret Santana**  
 > Durante o desenvolvimento, foram feitas alterações em relação ao projeto original do tutorial, incluindo:  
 > - Adição de um botão de **Settings** na barra de navegação;  
 > - Personalização das **cores** do aplicativo;  
