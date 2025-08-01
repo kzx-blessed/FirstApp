@@ -15,4 +15,4 @@ Foi desenvolvido utilizando o **Expo**, uma ferramenta moderna que facilita o de
 > - Troca da **imagem de fundo** padrão por uma personalizada.
 >
 ### Tela Inicial
-![Tela](FirstApp/assets/screenshot.png)
+![Tela](FirstApp/assets/background-image.png)
